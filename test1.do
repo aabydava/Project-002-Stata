@@ -7,7 +7,7 @@ webuse auto, clear
 
 tab make
 
-
+summarize price, detail
 
 
 
